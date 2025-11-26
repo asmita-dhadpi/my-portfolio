@@ -31,7 +31,7 @@ Clone the repository and install dependencies:
 
 terminal commands
 
-git clone https://github.com/asmita-dhadpi/my-portfolio.git
-cd my-portfolio
-npm install
-npm run dev
+git clone https://github.com/asmita-dhadpi/my-portfolio.git<br/>
+cd my-portfolio<br/>
+npm install<br/>
+npm run dev<br/>

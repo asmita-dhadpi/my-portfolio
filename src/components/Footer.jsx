@@ -14,7 +14,7 @@ const Footer = () => {
         {/* Social Icons */}
        <div className="flex flex-col text-sm space-y-2">
             <a
-              href="https://github.com/AsmitaDhadpi"
+              href="https://github.com/asmita-dhadpi"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 hover:text-blue-600 dark:hover:text-blue-400 transition"

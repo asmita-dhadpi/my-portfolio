@@ -62,7 +62,7 @@ const EducationTimeline = () => {
               <div
                 className={`
                   dark:bg-[#0d0d0d] bg-blue-100
-                  p-6 rounded-xl shadow-lg w-[45%] md:w-[45%]
+                  p-6 rounded-xl shadow-lg w-full md:w-[45%]
                   border border-white/10 backdrop-blur 
                   hover:shadow-purple-500/30 transition-all duration-300
                   ${item.side === "left" ? "left md:text-right" : "left md:text-left"}
@@ -75,7 +75,7 @@ const EducationTimeline = () => {
               </div>
 
               {/* DOT CONNECTOR */}
-              <div className=" w-6 h-6 rounded-full border-blue-200 bg-white dark:bg-purple-500 border-4 dark:border-black absolute 
+              <div className="hidden md:block w-6 h-6 rounded-full border-blue-200 bg-white dark:bg-purple-500 border-4 dark:border-black absolute 
                 left-1/2 -translate-x-1/2"></div>
             </div>
           ))}

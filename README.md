@@ -1,16 +1,37 @@
-# React + Vite
+<h1>My Personal Portfolio (Asmita Dhadpi)</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website — built using **React, Vite, and Tailwind CSS**.  
+This project showcases my skills, experience, projects, and contact details in a clean and responsive interface.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<b>Tech Stack</b>
 
-## React Compiler
+| Category | Tools |
+|----------|-------|
+| Frontend | React.js, JavaScript, JSX |
+| Styling | Tailwind CSS, Responsive Design |
+| Build Tool | Vite |
+| UI Elements | React Icons, Remix Icons, Animated UI |
+| Deployment | GitHub Pages |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+<b>Features</b>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-- Fully responsive across all devices  
+-- Smooth scrolling navigation  
+-- Dark & Light Theme support (auto + toggle)  
+-- Modern UI with animations  
+-- Projects section with preview modal  
+-- Contact form (EmailJS integration)  
+-- Back-to-top floating button  
+-- Loading screen and mobile menu animations  
+
+
+Clone the repository and install dependencies:
+
+terminal commands
+
+git clone https://github.com/asmita-dhadpi/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev

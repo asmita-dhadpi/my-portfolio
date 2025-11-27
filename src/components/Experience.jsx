@@ -3,14 +3,14 @@ const Experience = () => {
     {
       role: "Software Developer",
       company: "Diligence Web Solutions",
-      duration: "2023 — Present",
+      duration: "Jul 2024 — Present",
       description:
         "Working on building scalable web applications using C#, .NET MVC,.NET Core, SQL Server and JavaScript. Focused on writing clean, maintainable code and debugging real-time production issues.",
     },
     {
       role: "Intern — Software Developer",
       company: "Diligence Web Solutions",
-      duration: "2022 — 2023",
+      duration: "Jan 2024 — Jun 2024",
       description:
       "Assisted in developing web applications using C#, ASP.NET MVC, SQL Server while learning core development workflows and best practices. Supported the team with feature development, debugging, and code reviews, improving my understanding of real-world software development and industry standards"
     },

@@ -1,4 +1,4 @@
-import heroImg from "../assets/Images/Home.jpg"; // change to your image path
+import heroImg from "../assets/Images/Asmita_Home_Img.webp"; 
 
 
 const Home = () => {

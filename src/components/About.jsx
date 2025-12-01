@@ -1,4 +1,4 @@
-import aboutImg from "../assets/Images/About.jpg"; // update image path
+import aboutImg from "../assets/Images/Asmita_About_Img.webp";
 
 const About = () => {
   return (

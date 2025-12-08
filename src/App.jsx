@@ -7,6 +7,7 @@ import EducationTimeline from "./components/EducationTimeline ";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import BackToTop from "./components/BackToTop";
+import Projects from "./components/Projects";
 
 const App = () => {
   // THEME STATE
@@ -37,6 +38,7 @@ const App = () => {
       <About />
       <Experience />
       <EducationTimeline/>
+      <Projects/>
       <Contact/>
       <Footer/>
       <BackToTop/>

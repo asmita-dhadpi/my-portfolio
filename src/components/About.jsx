@@ -66,15 +66,20 @@ const About = () => {
             {[
               "C#",
               ".NET MVC",
-              "SQL Server",
               ".NET CORE",
+              "ADO.net",
+              "Entity Framework",
+              "SQL Server",
+              "JavaScript",
+              "jQuery",
               "HTML",
               "CSS",
-              "JavaScript",
-              "React (learning)",
+              "Bootstrap",
               "OOP",
-              "REST APIs",
-              "GIT"
+              "GIT",
+              "Github",
+              "React (learning)",
+              "Angular (learning)",
             ].map((skill) => (
               <span
                 key={skill}

@@ -13,8 +13,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        import.meta.env.VITE_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
+        "service_y1uexm5",
+        "template_qjjvnk1",
         {
           from_name: form.name.value,
           from_email: form.email.value,

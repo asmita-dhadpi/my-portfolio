@@ -20,7 +20,7 @@ const Contact = () => {
           from_email: form.email.value,
           message: form.message.value,
         },
-        import.meta.env.VITE_EMAILJS_PUBLIC_KEY
+        "ETy2xD1P_m6qsfrJe"
       )
       .then(
         () => {
